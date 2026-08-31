@@ -1,0 +1,30 @@
+# کلید و تنظیمات محرمانه
+.env
+
+# محیط مجازی
+.venv/
+venv/
+
+# ایندکس ساخته‌شده
+chroma_db/
+
+# دیتای شخصی
+scripts/*.docx
+scripts/*.doc
+metadata.xlsx
+metadata.csv
+
+# پایتون
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# سیستم
+.DS_Store
+Thumbs.db
+
+# ادیتور
+.vscode/
+.idea/
